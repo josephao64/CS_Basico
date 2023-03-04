@@ -1,0 +1,15 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\bin\Debug\net6.0\3_Entrada_salida.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\bin\Debug\net6.0\3_Entrada_salida.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\bin\Debug\net6.0\3_Entrada_salida.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\bin\Debug\net6.0\3_Entrada_salida.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\bin\Debug\net6.0\3_Entrada_salida.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\refint\3_Entrada_salida.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\3_Entrada_salida.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\3_Entrada_salida\obj\Debug\net6.0\ref\3_Entrada_salida.dll

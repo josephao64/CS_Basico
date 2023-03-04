@@ -1,0 +1,30 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\refint\4_LeerTeclado.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\4_LeerTeclado\obj\Debug\net6.0\ref\4_LeerTeclado.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\bin\Debug\net6.0\4_LeerTeclado.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\refint\4_LeerTeclado.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\4_LeerTeclado.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\4_LeerTeclado\obj\Debug\net6.0\ref\4_LeerTeclado.dll

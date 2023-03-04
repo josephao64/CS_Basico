@@ -1,0 +1,15 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\bin\Debug\net6.0\5_condiciones.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\bin\Debug\net6.0\5_condiciones.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\bin\Debug\net6.0\5_condiciones.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\bin\Debug\net6.0\5_condiciones.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\bin\Debug\net6.0\5_condiciones.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\refint\5_condiciones.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\5_condiciones.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\5_condiciones\obj\Debug\net6.0\ref\5_condiciones.dll

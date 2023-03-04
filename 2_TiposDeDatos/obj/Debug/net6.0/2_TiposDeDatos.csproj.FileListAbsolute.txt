@@ -1,0 +1,30 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\refint\2_TiposDeDatos.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\2_TiposDeDatos\obj\Debug\net6.0\ref\2_TiposDeDatos.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\bin\Debug\net6.0\2_TiposDeDatos.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\refint\2_TiposDeDatos.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\2_TiposDeDatos.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\CSarp basico\2_TiposDeDatos\obj\Debug\net6.0\ref\2_TiposDeDatos.dll
